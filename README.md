@@ -13,3 +13,6 @@
 
 - Setting up DNS of the website to https://opendatacommunity.org/
 - Demo of [Dework](https://app.dework.xyz/test-odc)
+
+- Open Data set on Ocean:
+	- All ethereum transactions of addresses participating in GR15, Fantom, UNICEF and some alpha round up to 2022-01-26 https://market.oceanprotocol.com/asset/did:op:826780ac16a444d65a0699e0e7629e67688c7b6a31ba2d1e672e3a2b398cab08
